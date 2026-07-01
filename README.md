@@ -1,0 +1,3 @@
+# What is it
+
+A very simplistic+incomplete windows forms application to get things starting on a new windows installation...
